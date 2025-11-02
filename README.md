@@ -16,7 +16,6 @@ First, see it in action:
 ```
 2. Run the Flutter app.
 
-<img width="910" height="567" alt="FastAPI-Flutter-Postman-Screenshot 2025-09-26 161419" src="https://github.com/user-attachments/assets/bcdd071e-f7bb-4f83-87b6-bc50b221292e" />
 
 ```
 cd soulful
