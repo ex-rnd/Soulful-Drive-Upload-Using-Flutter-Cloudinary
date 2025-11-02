@@ -1,6 +1,7 @@
 # 🎮 Soulful Drive — Flutter File Upload App
 A lightweight Flutter app to provide a simple, reliable mobile UI for authenticated users to pick, upload, and preview media files while handling async operations safely and showing clear feedback.
 
+
 ## ✳️ Visual Overview 
 
 https://github.com/user-attachments/assets/f1a26771-ae05-4d54-a23e-2f703f18c8f3
