@@ -4,7 +4,7 @@ A lightweight Flutter app to provide a simple, reliable mobile UI for authentica
 ## ✳️ Visual Overview 
 
 <div align="center">
-  <video src="[myvideo.mp4](https://github.com/user-attachments/assets/317af18d-c6d3-44ff-960a-3af27c7c760a)" width="400" />
+  <video src="https://github.com/user-attachments/assets/317af18d-c6d3-44ff-960a-3af27c7c760a" width="400" />
 </div>
     
 <div align="center">
