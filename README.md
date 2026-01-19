@@ -6,10 +6,6 @@ A lightweight Flutter app to provide a simple, reliable mobile UI for authentica
 <div align="center">
   <video src="https://github.com/user-attachments/assets/317af18d-c6d3-44ff-960a-3af27c7c760a" width="400" />
 </div>
-    
-<div align="center">
-https://github.com/user-attachments/assets/317af18d-c6d3-44ff-960a-3af27c7c760a
-</div>
 
 
 ## 📹 Demo
@@ -87,7 +83,9 @@ flutter run
 
 ### Example: pick & navigate to upload.
 
-https://github.com/user-attachments/assets/f190dd84-f459-4932-9853-fd107368817f
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/f190dd84-f459-4932-9853-fd107368817f" width="400" />
+</div>
 
 ```
 final result = await FilePicker.platform.pickFiles();
@@ -98,7 +96,9 @@ if (result != null) {
 
 ### Example: upload handler
 
-https://github.com/user-attachments/assets/f190dd84-f459-4932-9853-fd107368817f
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/f190dd84-f459-4932-9853-fd107368817f" width="400" />
+</div>
 
 ```
 final success = await uploadToCloudinary(selectedFile);
