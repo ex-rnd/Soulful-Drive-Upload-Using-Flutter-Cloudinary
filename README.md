@@ -2,6 +2,11 @@
 A lightweight Flutter app to provide a simple, reliable mobile UI for authenticated users to pick, upload, and preview media files while handling async operations safely and showing clear feedback.
 
 ## ✳️ Visual Overview 
+
+<div align="center">
+  <video src="[myvideo.mp4](https://github.com/user-attachments/assets/317af18d-c6d3-44ff-960a-3af27c7c760a)" width="400" />
+</div>
+    
 <div align="center">
 https://github.com/user-attachments/assets/317af18d-c6d3-44ff-960a-3af27c7c760a
 </div>
